@@ -48,6 +48,6 @@ Here are some ideas to get you started:
   ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelazizel-adarissi/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>abdelazizel-adarissi</a>
+<a href="https://www.linkedin.com/in/abdelazizel-adarissi/"><img src="https://img.shields.io/badge/-abdelazizel-adarissi%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/>abdelazizel-adarissi</a>
 <a href="eladarissiaziz2001@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/> abdelazizel-adarissi</a>
 </p>
